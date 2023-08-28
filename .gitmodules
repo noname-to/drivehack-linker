@@ -1,0 +1,9 @@
+[submodule "nodejs-back"]
+	path = nodejs-back
+	url = https://github.com/kravetsone/driveIT-backend
+[submodule "gtfs-processor"]
+	path = gtfs-processor
+	url = https://github.com/Skifry/drivehack-gtfs-shit
+[submodule "svelte-front"]
+	path = svelte-front
+	url = https://github.com/hevav/driveit-frontend
